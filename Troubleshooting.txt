@@ -1,0 +1,5 @@
+1.	오류 내용 : 'C:\Users\kr_cu\source\repos\kwonjoonsang\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe' 경로의 일부를 찾을 수 없습니다.
+	해결 방안 : https://kwonyeeun.tistory.com/105
+
+2.	오류 내용 : Ninject Module 설치 후 App_Start에 NinjectWebCommon.cs가 생기지 않는다.
+	해결 방안 : Ninject 관련 Module을 3.2 Version으로 설치함
